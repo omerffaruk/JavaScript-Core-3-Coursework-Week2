@@ -1,0 +1,19 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+}
+
+#imgContainer {
+    max-width: 100vw;
+}
+
+img {
+    margin: 20px 10px;
+}
